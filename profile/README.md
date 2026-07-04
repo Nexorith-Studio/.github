@@ -12,4 +12,4 @@ Nexorith Studio is a modern software studio focused on building high-quality dig
 React • Node.js • TypeScript • AI
 
 ## Contact
-📧 nexorithstudio@gmail.com
+📧 contact@nexorith.tech
